@@ -28,7 +28,7 @@ Transform:
   m_GameObject: {fileID: 1885779877539862}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -0.15848923, y: 1.559, z: -0.2271347}
-  m_LocalScale: {x: 0.9000001, y: 0.9000001, z: 0.9000001}
+  m_LocalScale: {x: 0.6, y: 0.6, z: 0.6}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
@@ -55,7 +55,7 @@ MonoBehaviour:
   randomWaitTime: 0
   spawnProbability: 1
   randomMesh: 1
-  directionSelected: 010001000001
+  directionSelected: 000000000000
 --- !u!54 &54324948739513528
 Rigidbody:
   m_ObjectHideFlags: 0
